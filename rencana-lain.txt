@@ -8,4 +8,9 @@ RENCANA LAIN
   g, h, i
   
 RENCANA 1
-angular
+
+123
+567
+890
+
+RENCANA 2
