@@ -8,6 +8,7 @@ RENCANA LAIN
   g, h, i
   
 RENCANA 1
+
 123
 567
 890
